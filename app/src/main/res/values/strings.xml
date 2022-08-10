@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">project59</string>
+    <string name="nameBtnGal">Galeria</string>
+    <string name="nameBtnFot">Tomar foto</string>
+    <string name="gallery_text">Hi Andrei</string>
+    <string name="cart_search_button">Search</string>
+    <string name="cart_search">Search</string>
+    <string name="cart_drink">Drink</string>
+    <string name="cart_category">Category</string>
+    <string name="cart_instructions">Instructions</string>
+</resources>
